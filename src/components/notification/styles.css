@@ -1,0 +1,13 @@
+.toastBody {
+    background-color: #00cfe8!important;
+}
+
+.toastProgress {
+    background-color: #00cfe8 !important;
+}
+
+.Toastify__toast--success {
+    border: 1px solid #3A9EA5 !important;
+    border-radius: 10px !important;
+    background: #F0F9FA !important;
+}

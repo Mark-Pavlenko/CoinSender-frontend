@@ -1,0 +1,5 @@
+.center .slick-center  {
+    opacity: 1;
+    transform: scale(1.25);
+    transition: transform 0.5s;
+}
